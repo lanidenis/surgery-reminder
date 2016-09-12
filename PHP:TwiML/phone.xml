@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Gather timeout="5" action="/phone.php" method="GET">
+<Say>Greetings, you have an appointment reminder from Montefiore Medical Center. Press 1 to continue.</Say>
+</Gather>
+<Say>We didn't receive any input. Goodbye!</Say>
+</Response>
+
+

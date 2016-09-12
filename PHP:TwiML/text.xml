@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+<Message action="/text.php" method="GET">
+Greetings, you have an appointment reminder from Montefiore Medical Center. Reply 1 to continue.
+</Message>
+</Response>
+
